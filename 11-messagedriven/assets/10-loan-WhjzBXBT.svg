@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="132px" preserveAspectRatio="none" style="width:450px;height:132px;background:#FFFFFF;" version="1.1" viewBox="0 0 450 132" width="450px" zoomAndPan="magnify"><defs/><g><!--MD5=[03b6e45be4c0ab00b67d0b85ab49251e]
+entity loansource--><g id="elem_loansource"><rect fill="#FFFFFF" height="119.332" rx="2.5" ry="2.5" style="stroke:#00000000;stroke-width:0.5;" width="119" x="7" y="7"/><image height="64" width="64" x="17" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAABm0lEQVR4Xu2YMU7DQBQFczY6OjpOQcV1kWh8ECJ9ySL7/uxb20lsw5emmrzYO1aSIpfp4/PUXFSdiwrYm8cGfL28XlF/RyqgSwV4KkD4fnuPcyvXl3S/kfsH6Ll/o/uNPCpg3G/kfwd0Pu461k2w8YuxKUBPM7NxPM4dAkYk+VQuogLk9qkkn8pFVIDcPpXkU7mIxQH609kMUkm+udSKn9TFAfaW6UHJ28dhWRmg3g7Ijw9SKkCgAfnxQYoJ0M+ovQ0NyDeDBv2ONfQC9HIzOm7eNe6bQYqOZzAgnr0+AHtFGpDvD+gYMyZAfXqbkQF5O1gZ0Llc6u2AvB2QDypAoAF5OyAfVIBAA/J2QD6oAIEG5O2AfFABAg3I2wH5oAIEGpC3A/JBBQg0IG8H5IMKEGhA3g7IBxUg0IC8HZAPKkCgAXk7IB9UgEAD8nZAPqgAgQbk7YB8cBNAfyQeiuY/or8VMDd0/gnbCzpYG9CZ7kjnSElA/w3Pp3+YPMC+7WnYY2DAdJjvdOf0Uz9gOkBD//STDTg+FbA3pw/4AZeXOZpRYNBQAAAAAElFTkSuQmCC" y="17"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="17" y="94.5352"> </text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="99" x="17" y="112.957">Loan Source</text></g><!--MD5=[799e9543975076390d2a6ceafec8df6c]
+entity queue--><g id="elem_queue"><rect fill="#FFFFFF" height="119.332" rx="2.5" ry="2.5" style="stroke:#00000000;stroke-width:0.5;" width="84" x="186" y="7"/><image height="64" width="64" x="196" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAACLUlEQVR4Xu2YMUsDQRCF/aP+A/+B/8DCOrWNla3WFnZ2gsWBoGIhBASFFAFhHHZksu6bye3Bxb2FeWxh3l3evC/ZuwseUec6Ko3eFACtFQCtFQCtFQCtFQCtFQCttQPYvq6/7h67WFy1BGBrOD7vaH1/bv4AbB6e8aQlLy5sA6wvb/ErW856X92MAOiBZYoZDgLAO1I+Id2aIjHza84zK3UoAMyl7MbwcX2/36wXDgqAJMwlp6tp1gsHBUAS5pLT1TTrhYOqAPD2Ughzyelqmii5rZWuNWgcgCfJITNRhLnkdDXNQpqG5+CgcQB9+A3pOV0cFWEuOV1NMxeP0HE8ujiKg6YBmKFk5ZLT1TRFvG1eTi/2z8JBkwF48Rh84uLbza6mKf7TyaoYNDNAPoP/2Ga/BTCXnK6mqW8f0qej58wMQPAt68mYS05XNPUmMWSNi5cqHDQNgBIDzsNcsrqaZr5FdWcW+SocNA2g2Km6izBXThZzPwCXxp0pL2cGKHZqfh1jLlldPZP1dnal4bqpZgbQVZNLTlfTFOVPgPpBkwFwMFm55HQ1TVX+JQ+HAMCjIswlp6tp5tImswHIe/DhlQtzyelqmoX0Zu2VmQZQI8wlp6tp1gsHBUAS5pLT1TTrhYMCIAlzyelqmvXCQQGQ1P1/5v5N4wD8zfLfi136e2njAfSySgC9tnpZegn9AgiDXF7LX/kNYAfQqQKgtQKgtQKgtQKgtQKgtQKgtX4AkID0VZcv7QsAAAAASUVORK5CYII=" y="17"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="196" y="94.5352"> </text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="53" x="196" y="112.957">Queue</text></g><!--MD5=[d4b41789278b8f88d3317a6c91f94fc3]
+entity loancheck--><g id="elem_loancheck"><rect fill="#FFFFFF" height="119.332" rx="2.5" ry="2.5" style="stroke:#00000000;stroke-width:0.5;" width="114" x="330" y="7"/><image height="64" width="64" x="340" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAABm0lEQVR4Xu2YMU7DQBQFczY6OjpOQcV1kWh8ECJ9ySL7/uxb20lsw5emmrzYO1aSIpfp4/PUXFSdiwrYm8cGfL28XlF/RyqgSwV4KkD4fnuPcyvXl3S/kfsH6Ll/o/uNPCpg3G/kfwd0Pu461k2w8YuxKUBPM7NxPM4dAkYk+VQuogLk9qkkn8pFVIDcPpXkU7mIxQH609kMUkm+udSKn9TFAfaW6UHJ28dhWRmg3g7Ijw9SKkCgAfnxQYoJ0M+ovQ0NyDeDBv2ONfQC9HIzOm7eNe6bQYqOZzAgnr0+AHtFGpDvD+gYMyZAfXqbkQF5O1gZ0Llc6u2AvB2QDypAoAF5OyAfVIBAA/J2QD6oAIEG5O2AfFABAg3I2wH5oAIEGpC3A/JBBQg0IG8H5IMKEGhA3g7IBxUg0IC8HZAPKkCgAXk7IB9UgEAD8nZAPqgAgQbk7YB8cBNAfyQeiuY/or8VMDd0/gnbCzpYG9CZ7kjnSElA/w3Pp3+YPMC+7WnYY2DAdJjvdOf0Uz9gOkBD//STDTg+FbA3pw/4AZeXOZpRYNBQAAAAAElFTkSuQmCC" y="17"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="340" y="94.5352"> </text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="94" x="340" y="112.957">Loan Check</text></g><!--MD5=[31d646a2b47664dca831ef547e134e28]
+link loansource to queue--><g id="link_loansource_queue"><path d="M126.44,66.5 C144.29,66.5 163.64,66.5 180.56,66.5 " fill="none" id="loansource-to-queue" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="185.72,66.5,176.72,62.5,180.72,66.5,176.72,70.5,185.72,66.5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7376e6a7c027c65cafa8cb46df89ae74]
+link queue to loancheck--><g id="link_queue_loancheck"><path d="M270.25,77.88 C286.94,79.21 306.56,79.57 324.85,78.97 " fill="none" id="queue-to-loancheck" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="329.97,78.77,320.8273,75.1078,324.9735,78.9561,321.1251,83.1022,329.97,78.77" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f5640ebc558622e5fbc95c7b709a84e5]
+link loancheck to queue--><g id="link_loancheck_queue"><path d="M329.97,53.5 C312.12,52.68 292.57,52.87 275.47,54.05 " fill="none" id="loancheck-to-queue" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="270.25,54.45,279.5317,57.7439,275.2351,54.0643,278.9147,49.7677,270.25,54.45" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b19d84bcedd0a9d4295ba03e7c616b35]
+@startuml Two Modes - Technical View
+
+'!define AWSPuml https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v11.1/dist
+'!includeurl AWSPuml/AWSCommon.puml
+
+' Uncomment the following line to create simplified view
+!includeurl AWSPuml/AWSSimplified.puml
+
+!includeurl AWSPuml/BusinessApplications/BusinessApplications.puml
+!includeurl AWSPuml/ApplicationIntegration/SimpleQueueServiceQueue.puml
+
+left to right direction
+
+BusinessApplications(loansource, "Loan Source", "Loan Source")
+SimpleQueueServiceQueue(queue, "Queue", "Queue")
+BusinessApplications(loancheck, "Loan Check", "Loan Check")
+
+loansource - -> queue
+queue - -> loancheck
+loancheck - -> queue
+
+@enduml
+
+@startuml Two Modes - Technical View
+
+
+
+
+hide stereotype
+
+
+
+
+
+sprite $BusinessApplications [64x64/16z] {
+xTD56WCn34FXVJwz-n-tp0tOANUarK3-i4il3jZFHXoYESyfZytzxLxNyqvl0tLFtDVcRny_kxe753exrRn2PmYz-_VDNW3qVQSI8Euhqn2Apr_etcVMV-_9
+UJxlxUtjxUt5LFGiNuHAC7KYbEQLzoIlVydp_2QgsccUEsi
+}
+
+skinparam rectangle<<BusinessApplications>> {
+    BackgroundColor AWS_BG_COLOR
+    BorderColor transparent
+    Shadowing false
+}
+sprite $SimpleQueueServiceQueue [64x64/16z] {
+xTO5aWD128NXGLhV_S-xnde2NHKN_hXyuxPTiopBM0-CZUFWwDqB3axCe-e1jHylsm5fv4cLFlwa_FCIUET71ihFI-pJAyNU8dLy0NJj5IZxVGDGLxu2QBv7
+2pqDB3m6-PudOl_-XycULm238syJAFjzmGSD_KRsfrrlyqUnjpda_PvivYAljW2zvTS1bCZRn7lUrdxiIxpzwCBBQliJtwlDUkHj4vJRtF_J7tx-MHVv8WTK
+V_o1cMSS71z__NDuMPQz0W
+}
+
+skinparam rectangle<<SimpleQueueServiceQueue>> {
+    BackgroundColor AWS_BG_COLOR
+    BorderColor transparent
+    Shadowing false
+}
+
+left to right direction
+
+rectangle "<color:#D6242D><$BusinessApplications></color>\n\n==Loan Source" <<BusinessApplications>> as loansource
+rectangle "<color:#CC2264><$SimpleQueueServiceQueue></color>\n\n==Queue" <<SimpleQueueServiceQueue>> as queue
+rectangle "<color:#D6242D><$BusinessApplications></color>\n\n==Loan Check" <<BusinessApplications>> as loancheck
+
+loansource - -> queue
+queue - -> loancheck
+loancheck - -> queue
+
+@enduml
+
+PlantUML version 1.2022.4(Sat Apr 09 21:29:17 CST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: zh
+Country: CN
+--></g></svg>
